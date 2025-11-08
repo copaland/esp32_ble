@@ -13,6 +13,8 @@ ESP32 Web BLE 테스트 - BLE 전용
 
 ## BLE UUID 기본 개념
 
+```https://www.uuidgenerator.net/```
+
 #### UUID의 역할
 Service UUID: GATT 서비스(기능 묶음)를 식별.
 Characteristic UUID: 서비스 내의 데이터 항목(읽기/쓰기/알림 등)을 식별.
