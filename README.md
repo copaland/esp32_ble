@@ -19,7 +19,8 @@ C:\Users\<username>\.arduinoIDE\plugins 폴더에 arduino-littlefs-upload-1.6.0.
 
 [ESP32FS-1.1.zip](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/)  
 
-[](https://github.com/copaland/esp32_ble/blob/main/esp32_fs.png)
+<img src="(https://github.com/copaland/esp32_ble/blob/main/esp32_fs.png)"></img>
+
 
 
 ## BLE UUID 기본 개념
