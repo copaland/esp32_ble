@@ -11,6 +11,11 @@ ESP32 Web BLE 테스트 - BLE 전용
 3.웹 서버는 백그라운드에서 실행 중입니다
 중지하려면: 터미널에서 Ctrl+C
 
+4. LITTLEFS PLUGIN 
+[LITTLEFS PLUGIN 설치](https://github.com/earlephilhower/arduino-littlefs-upload/releases)
+
+C:\Users\<username>\.arduinoIDE\plugins 폴더에 arduino-littlefs-upload-1.6.0.vsix 넣어둠
+
 ## BLE UUID 기본 개념
 
 ```https://www.uuidgenerator.net/```
