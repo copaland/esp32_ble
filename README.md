@@ -16,6 +16,8 @@ ESP32 Web BLE 테스트 - BLE 전용
 
 C:\Users\<username>\.arduinoIDE\plugins 폴더에 arduino-littlefs-upload-1.6.0.vsix 넣어둠
 
+[ESP32FS-1.1.zip](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/)
+
 ## BLE UUID 기본 개념
 
 ```https://www.uuidgenerator.net/```
